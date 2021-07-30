@@ -21,7 +21,7 @@ public class MenuManager : MonoBehaviour
     }
     private string _userName;
 
-    public MenuManager Instance
+    public static MenuManager Instance
     {
         get
         {
@@ -31,7 +31,7 @@ public class MenuManager : MonoBehaviour
             return _instance;
         }
     }
-    private MenuManager _instance;
+    private static MenuManager _instance;
 
     public TMP_InputField userNameField;
 
@@ -56,5 +56,6 @@ public class MenuManager : MonoBehaviour
     public void LoadGame()
     {
         UserName = userNameField.text;
+        SceneManager.LoadScene("GameScene");
     }
 }
