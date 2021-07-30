@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1050 700" style="enable-background:new 0 0 1050 700;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#003580;}
+	.st1{fill:#009543;}
+	.st2{clip-path:url(#SVGID_2_);}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:233.3329;stroke-miterlimit:40;}
+	.st4{fill:none;stroke:#D21034;stroke-width:174.9997;stroke-miterlimit:40;}
+	.st5{fill:#FFCE00;}
+	.st6{fill:#FFCE00;stroke:#003580;stroke-width:11.6666;stroke-miterlimit:40;}
+</style>
+<title>Flag of Namibia</title>
+<path class="st0" d="M0,700V0h1050L0,700z"/>
+<path class="st1" d="M1050,0v700H0L1050,0z"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="1050" height="700"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st2">
+		<path class="st3" d="M0,700L1050,0"/>
+		<path class="st4" d="M0,700L1050,0"/>
+	</g>
+</g>
+<g transform="translate(18 16.3415)">
+	<path class="st5" d="M192,57.6l18.1,49l40.2-33.4l-8.9,51.6L293,116l-33.4,40.2l49,18.1l-49,18.1l33.4,40.2l-51.6-8.9l8.9,51.6
+		L210.1,242L192,291l-18.1-49l-40.2,33.4l8.9-51.6L91,232.6l33.4-40.2l-49-18.1l49-18.1L91,116l51.6,8.9l-8.9-51.6l40.2,33.4
+		L192,57.6z"/>
+	<circle class="st6" cx="192" cy="174.3" r="64.2"/>
+</g>
+</svg>

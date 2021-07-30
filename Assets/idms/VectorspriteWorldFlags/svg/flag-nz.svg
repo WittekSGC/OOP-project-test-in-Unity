@@ -1,0 +1,260 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1415.65mm" height="731.3mm" viewBox="0 0 4012.87 2072.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #012169;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4, .cls-7 {
+        stroke: #fff;
+      }
+
+      .cls-4, .cls-8 {
+        stroke-width: 198.43px;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-6, .cls-8 {
+        stroke: #c8102e;
+      }
+
+      .cls-6 {
+        stroke-width: 132.28px;
+      }
+
+      .cls-7 {
+        stroke-width: 330.71px;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        fill: #c8102e;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(44.37 88.74)">
+      <rect class="cls-1" width="1984.25" height="992.13"/>
+    </clipPath>
+    <clipPath id="clip-path-2" transform="translate(44.37 88.74)">
+      <path class="cls-1" d="M0,0,992.13,496.06H0ZM992.13,0h992.12L992.13,496.06Zm0,496.06h992.12V992.13Zm0,0V992.13H0Z"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-2" x="44.37" y="88.74" width="3968.5" height="1984.25"/>
+  <g id="Flag_of_the_United_Kingdom" data-name="Flag of the United Kingdom">
+    <g class="cls-3">
+      <path id="Saint_Andrews_Cross" data-name="Saint Andrews Cross" class="cls-4" d="M0,0,1984.25,992.13M0,992.13,1984.25,0" transform="translate(44.37 88.74)"/>
+    </g>
+    <g class="cls-5">
+      <path id="Saint_Patricks_Cross" data-name="Saint Patricks Cross" class="cls-6" d="M0,0,1984.25,992.13M0,992.13,1984.25,0" transform="translate(44.37 88.74)"/>
+    </g>
+    <g id="Saint_Georges_Cross" data-name="Saint Georges Cross">
+      <g class="cls-3">
+        <path class="cls-7" d="M992.13,0V992.13M0,496.06H1984.25" transform="translate(44.37 88.74)"/>
+      </g>
+      <g class="cls-3">
+        <path class="cls-8" d="M992.13,0V992.13M0,496.06H1984.25" transform="translate(44.37 88.74)"/>
+      </g>
+    </g>
+  </g>
+  <g id="Southern_Cross" data-name="Southern Cross">
+    <g id="Gamma_Crucis" data-name="Gamma Crucis">
+      <g id="Pentagram">
+        <g id="Arm">
+          <path class="cls-9" d="M2976.38,348.07v75.07l150.14-75.07Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-9" d="M3005.05,436.32l-44.12-60.74,165.59-27.51Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-9" d="M2976.38,348.07v75.07l-150.14-75.07Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-9" d="M2947.7,436.32l44.13-60.74-165.59-27.51Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-9" d="M3022.78,381.78,2951.38,405l117.79,119.6Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-9" d="M2947.7,436.32l44.13-60.74,77.34,149Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-9" d="M2930,381.78l71.4,23.19-25-166Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-9" d="M3022.77,381.78,2951.38,405l25-166Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-9" d="M2930,381.78l71.4,23.19-117.8,119.6Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-9" d="M3005.05,436.32l-44.12-60.74-77.35,149Z" transform="translate(44.37 88.74)"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <path class="cls-10" d="M2976.38,364.61v49.61l99.21-49.61Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-10" d="M2995.33,422.93l-29.16-40.13,109.42-18.19Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-10" d="M2976.38,364.61v49.61l-99.21-49.61Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-10" d="M2957.43,422.93l29.16-40.13-109.42-18.19Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-10" d="M3007,386.89l-47.18,15.33,77.84,79Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-10" d="M2957.43,422.93l29.16-40.13,51.11,98.45Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-10" d="M2945.72,386.89l47.18,15.33-16.52-109.69Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-10" d="M3007,386.89l-47.18,15.33,16.52-109.69Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-10" d="M2945.72,386.89l47.18,15.33-77.84,79Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-10" d="M2995.33,422.93l-29.16-40.13-51.11,98.45Z" transform="translate(44.37 88.74)"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="Delta_Crucis" data-name="Delta Crucis">
+        <g>
+          <g>
+            <path class="cls-9" d="M3369.37,695.06v66.8l133.6-66.8Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-9" d="M3394.88,773.59l-39.26-54.05L3503,695.06Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-9" d="M3369.37,695.06v66.8l-133.61-66.8Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-9" d="M3343.85,773.59l39.27-54.05-147.36-24.48Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-9" d="M3410.65,725.05l-63.53,20.65,104.82,106.42Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-9" d="M3343.85,773.59l39.27-54,68.82,132.57Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-9" d="M3328.08,725.05l63.53,20.65L3369.37,598Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-9" d="M3410.65,725.05l-63.53,20.65L3369.37,598Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-9" d="M3328.08,725.05l63.53,20.65L3286.79,852.12Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-9" d="M3394.88,773.59l-39.26-54-68.83,132.57Z" transform="translate(44.37 88.74)"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <path class="cls-10" d="M3369.37,711.61v41.33L3452,711.61Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-10" d="M3385.16,760.2l-24.3-33.44L3452,711.61Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-10" d="M3369.37,711.61v41.33l-82.68-41.33Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-10" d="M3353.58,760.2l24.29-33.44-91.18-15.15Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-10" d="M3394.92,730.17l-39.32,12.77,64.86,65.86Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-10" d="M3353.58,760.2l24.3-33.44,42.58,82Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-10" d="M3343.82,730.17l39.31,12.77-13.76-91.4Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-10" d="M3394.91,730.17l-39.31,12.77,13.77-91.4Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-10" d="M3343.82,730.17l39.31,12.77-64.86,65.86Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-10" d="M3385.16,760.2l-24.3-33.44-42.59,82Z" transform="translate(44.37 88.74)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Beta_Crucis" data-name="Beta Crucis">
+        <g>
+          <g>
+            <path class="cls-9" d="M2517.89,809.35v75.07L2668,809.35Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-9" d="M2546.57,897.6l-44.13-60.73L2668,809.35Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-9" d="M2517.89,809.35v75.07l-150.14-75.07Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-9" d="M2489.22,897.6l44.12-60.73-165.59-27.52Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-9" d="M2564.29,843.06l-71.4,23.2,117.8,119.59Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-9" d="M2489.22,897.6l44.12-60.73,77.35,149Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-9" d="M2471.49,843.06l71.4,23.2-25-166Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-9" d="M2564.29,843.06l-71.4,23.2,25-166Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-9" d="M2471.49,843.06l71.4,23.2L2425.1,985.85Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-9" d="M2546.57,897.6l-44.13-60.73-77.34,149Z" transform="translate(44.37 88.74)"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <path class="cls-10" d="M2517.89,825.9v49.61l99.21-49.61Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-10" d="M2536.84,884.22l-29.16-40.14L2617.1,825.9Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-10" d="M2517.89,825.9v49.61l-99.21-49.61Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-10" d="M2498.94,884.22l29.16-40.14L2418.68,825.9Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-10" d="M2548.55,848.18l-47.18,15.32,77.84,79Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-10" d="M2498.94,884.22l29.16-40.14,51.11,98.45Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-10" d="M2487.23,848.18l47.18,15.32-16.52-109.68Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-10" d="M2548.55,848.18l-47.18,15.32,16.52-109.68Z" transform="translate(44.37 88.74)"/>
+          </g>
+          <g>
+            <path class="cls-10" d="M2487.23,848.18l47.18,15.32-77.84,79Z" transform="translate(44.37 88.74)"/>
+            <path class="cls-10" d="M2536.84,884.22l-29.16-40.14-51.11,98.45Z" transform="translate(44.37 88.74)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Alpha_Crucis" data-name="Alpha Crucis">
+      <g>
+        <g>
+          <path class="cls-9" d="M2976.38,1533.24v83.34l166.68-83.34Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-9" d="M3008.21,1631.21l-49-67.42,183.83-30.55Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-9" d="M2976.38,1533.24v83.34l-166.68-83.34Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-9" d="M2944.55,1631.21l49-67.42-183.83-30.55Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-9" d="M3027.88,1570.67l-79.25,25.75,130.76,132.77Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-9" d="M2944.55,1631.21l49-67.42,85.86,165.4Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-9" d="M2924.87,1570.67l79.26,25.75-27.75-184.27Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-9" d="M3027.88,1570.67l-79.26,25.75,27.76-184.27Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-9" d="M2924.87,1570.67l79.26,25.75-130.77,132.77Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-9" d="M3008.21,1631.21l-49-67.42-85.86,165.4Z" transform="translate(44.37 88.74)"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <path class="cls-10" d="M2976.38,1549.79v57.88l115.75-57.88Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-10" d="M2998.48,1617.83l-34-46.82,127.66-21.22Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-10" d="M2976.38,1549.79v57.88l-115.75-57.88Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-10" d="M2954.27,1617.83l34-46.82-127.66-21.22Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-10" d="M3012.15,1575.78l-55,17.88,90.8,92.2Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-10" d="M2954.27,1617.83l34-46.82,59.62,114.85Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-10" d="M2940.61,1575.78l55,17.88-19.27-128Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-10" d="M3012.15,1575.78l-55.05,17.88,19.28-128Z" transform="translate(44.37 88.74)"/>
+        </g>
+        <g>
+          <path class="cls-10" d="M2940.61,1575.78l55,17.88-90.81,92.2Z" transform="translate(44.37 88.74)"/>
+          <path class="cls-10" d="M2998.48,1617.83l-34-46.82-59.63,114.85Z" transform="translate(44.37 88.74)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,739 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="361.6mm" height="246.94mm" viewBox="0 0 1025 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2, .cls-7 {
+        fill: #009b3a;
+      }
+
+      .cls-3 {
+        fill: #fedf00;
+      }
+
+      .cls-4 {
+        fill: #002776;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-2);
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(25 0)">
+      <circle class="cls-1" cx="500" cy="350" r="175"/>
+    </clipPath>
+    <clipPath id="clip-path-2" transform="translate(25 0)">
+      <path class="cls-1" d="M554.28,326.36l6.65-15.28,13.75,6L568,332.35Zm11.34-7.27-1.14,2.62,6.88,3,1.14-2.62Z"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-2" x="25" width="1000" height="700"/>
+  <path class="cls-3" d="M85,350,500,615,915,350,500,85Z" transform="translate(25 0)"/>
+  <circle class="cls-4" cx="525" cy="350" r="175"/>
+  <g class="cls-5">
+    <path class="cls-6" d="M-25,700c0-234.72,190.28-425,425-425S825,465.28,825,700H800c0-220.91-179.09-400-400-400S0,479.09,0,700Z" transform="translate(25 0)"/>
+  </g>
+  <g>
+    <path id="O" class="cls-7" d="M350.74,298.85c4.12-.51,7-4.62,6.43-9.19s-4.35-7.86-8.46-7.36-7,4.62-6.43,9.19,4.35,7.86,8.46,7.36m-.37-3.08c2.41-.29,4.08-2.86,3.73-5.73s-2.6-5-5-4.66-4.09,2.86-3.73,5.73,2.59,5,5,4.66" transform="translate(25 0)"/>
+    <g id="R">
+      <path id="P" class="cls-7" d="M364.32,297.34l3.09-.22L367,291l6.65-.47A5.24,5.24,0,0,0,372.9,280l-9.5.67Zm2.44-9.48,6.42-.45a2.14,2.14,0,1,0-.3-4.27l-6.41.45Z" transform="translate(25 0)"/>
+      <path class="cls-2" d="M378.46,296.35c-.17-2.37-.53-7.6-4.1-7.35l-4.51.32c5.22-.37,5.59,4.86,5.76,7.23" transform="translate(25 0)"/>
+    </g>
+    <path id="D" class="cls-7" d="M385.45,296l7.85-.14a7.14,7.14,0,0,0,7-7.27l0-2.38a7.15,7.15,0,0,0-7.27-7l-7.85.14Zm3-3.15,4.52-.08a4.52,4.52,0,0,0,4.44-4.6l0-1.43a4.52,4.52,0,0,0-4.6-4.45l-4.53.08Z" transform="translate(25 0)"/>
+    <path id="E" class="cls-2" d="M406.61,295.82l15,.52.11-3.09-12.14-.43.15-4.28,9.52.33.1-2.85-9.52-.33.12-3.34,11.42.4.11-3.09-14.28-.5Z" transform="translate(25 0)"/>
+    <path id="M" class="cls-2" d="M427.75,296.72l2.85.25,1-11.39,2.32,11.68,2.61.23,4.32-11.1-1,11.39,2.85.24,1.45-16.6-4.15-.36-4.32,11.09-2.32-11.67-4.15-.37Z" transform="translate(25 0)"/>
+    <path id="e-2" data-name="e" class="cls-2" d="M462.28,300.61l12.32,2.12.49-2.82-9.51-1.63.65-3.75,7.74,1.33.49-2.82-7.75-1.33.45-2.58,9.21,1.58.48-2.81-12-2.07Z" transform="translate(25 0)"/>
+    <path class="cls-7" d="M493.93,306.83l3,.77,1.55-6,6.45,1.67a5.24,5.24,0,1,0,2.63-10.14l-9.22-2.39Zm5.32-8.22,6.23,1.61a2.14,2.14,0,1,0,1.07-4.15l-6.22-1.61Z" transform="translate(25 0)"/>
+    <g>
+      <path class="cls-7" d="M514.38,312.28l3,.93,1.86-5.9,6.36,2a5.24,5.24,0,0,0,3.15-10l-9.08-2.86Zm5.75-7.92,6.13,1.93a2.14,2.14,0,0,0,1.29-4.09l-6.14-1.93Z" transform="translate(25 0)"/>
+      <path class="cls-2" d="M527.89,316.54c.72-2.27,2.29-7.26-1.11-8.34l-4.32-1.36c5,1.58,3.42,6.57,2.71,8.84" transform="translate(25 0)"/>
+    </g>
+    <path class="cls-7" d="M541.54,321.43c3.88,1.45,8.33-.87,9.94-5.18s-.22-9-4.1-10.43-8.33.86-10,5.18.23,9,4.11,10.43m1.09-2.9c2.27.85,4.94-.66,6-3.37s0-5.59-2.3-6.44-4.94.65-6,3.36,0,5.6,2.3,6.45" transform="translate(25 0)"/>
+    <g id="G">
+      <g class="cls-8">
+        <path class="cls-7" d="M561.16,329.35c3.8,1.66,8.37-.43,10.2-4.65s.24-9-3.55-10.63-8.37.43-10.2,4.65-.25,9,3.55,10.63m1.23-2.83c2.24,1,5-.4,6.13-3s.28-5.59-1.95-6.56-5,.39-6.13,3-.28,5.59,1.95,6.56" transform="translate(25 0)"/>
+      </g>
+      <rect class="cls-2" x="566.8" y="321.38" width="2.38" height="6.31" transform="translate(68.89 716.01) rotate(-66.5)"/>
+      <rect class="cls-2" x="564.44" y="326.86" width="8.33" height="2.38" transform="translate(66.04 718.69) rotate(-66.5)"/>
+    </g>
+    <g>
+      <path class="cls-7" d="M573.63,335l2.77,1.38,2.76-5.54,6,3a5.24,5.24,0,0,0,4.68-9.38l-8.53-4.25Zm6.91-6.93,5.75,2.87a2.14,2.14,0,1,0,1.91-3.84l-5.75-2.86Z" transform="translate(25 0)"/>
+      <path class="cls-2" d="M586.3,341.27c1.07-2.13,3.4-6.82.21-8.41l-4-2c4.69,2.34,2.35,7,1.29,9.16" transform="translate(25 0)"/>
+    </g>
+    <path class="cls-2" d="M592.49,344.54l13.06,7.38,1.52-2.69-10.57-6,2.11-3.73,8.29,4.69,1.41-2.49L600,337l1.64-2.9,10,5.63,1.52-2.69-12.43-7Z" transform="translate(25 0)"/>
+    <path id="S" class="cls-2" d="M616.81,352.7c-.9,1.4,0,3,2,4.25s3.38,1.23,3.95.33c1.83-2.86-8.71-7-5.46-12,2.8-4.29,7.59-1,9.39.2s4.71,4.13,2.46,7.56l-3.07-1.95c1-1.51-.09-3-1.7-4s-2.82-1.44-3.74,0c-1.56,2.33,8.77,6.72,5.61,11.69-2.34,3.67-6.4,2.07-9.11.34-2.31-1.47-5.76-4.94-3.51-8.45Z" transform="translate(25 0)"/>
+    <path class="cls-2" d="M634.69,364.52c-1,1.36-.14,3,1.79,4.35s3.31,1.41,3.93.54c2-2.76-8.33-7.48-4.83-12.3,3-4.13,7.63-.55,9.38.7s4.49,4.37,2,7.68l-3-2.11c1-1.46.06-3-1.49-4.06s-2.74-1.59-3.75-.19c-1.67,2.25,8.41,7.17,5,12-2.52,3.54-6.49,1.73-9.11-.14-2.23-1.59-5.49-5.23-3.06-8.62Z" transform="translate(25 0)"/>
+    <path class="cls-7" d="M651.6,383.7c3.24,2.57,8.19,1.74,11.06-1.86s2.56-8.61-.69-11.19-8.19-1.75-11.05,1.85-2.56,8.62.68,11.2m1.93-2.43c1.9,1.52,4.9.91,6.7-1.35s1.72-5.33-.18-6.85-4.91-.9-6.71,1.36-1.72,5.33.19,6.84" transform="translate(25 0)"/>
+  </g>
+  <g id="αCMi">
+    <g id="star1">
+      <g id="star">
+        <g id="c">
+          <path id="t" class="cls-6" d="M357.14,311.07l-2.32,7.13,3.57,1.16" transform="translate(25 0)"/>
+          <path class="cls-6" d="M357.14,311.07l2.32,7.13-3.57,1.16" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M364.28,316.25h-7.5V320" transform="translate(25 0)"/>
+          <path class="cls-6" d="M364.28,316.25l-6.07,4.41-2.21-3" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M350,316.25l6.07,4.41,2.2-3" transform="translate(25 0)"/>
+          <path class="cls-6" d="M350,316.25h7.5V320" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M361.55,324.64l-2.32-7.13-3.56,1.15" transform="translate(25 0)"/>
+          <path class="cls-6" d="M361.55,324.64l-6.07-4.41,2.21-3" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M352.73,324.64l6.07-4.41-2.2-3" transform="translate(25 0)"/>
+          <path class="cls-6" d="M352.73,324.64l2.32-7.13,3.57,1.15" transform="translate(25 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="αCMa">
+    <g>
+      <g>
+        <path class="cls-6" d="M372.62,384.64l-2.32,7.14,3.57,1.15" transform="translate(25 0)"/>
+        <path class="cls-6" d="M372.62,384.64l2.32,7.14-3.57,1.15" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M379.75,389.82h-7.5v3.75" transform="translate(25 0)"/>
+        <path class="cls-6" d="M379.75,389.82l-6.07,4.41-2.2-3" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M365.49,389.82l6.06,4.41,2.21-3" transform="translate(25 0)"/>
+        <path class="cls-6" d="M365.49,389.82H373v3.75" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M377,398.21l-2.32-7.13-3.57,1.16" transform="translate(25 0)"/>
+        <path class="cls-6" d="M377,398.21,371,393.8l2.2-3" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M368.21,398.21l6.07-4.41-2.21-3" transform="translate(25 0)"/>
+        <path class="cls-6" d="M368.21,398.21l2.32-7.13,3.56,1.16" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="βCMa">
+    <g id="star2">
+      <g>
+        <g>
+          <path class="cls-6" d="M351.19,401.61l-1.93,5.94,3,1" transform="translate(25 0)"/>
+          <path class="cls-6" d="M351.19,401.61l1.93,5.94-3,1" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M357.13,405.93h-6.25v3.12" transform="translate(25 0)"/>
+          <path class="cls-6" d="M357.13,405.93l-5.05,3.67-1.84-2.53" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M345.25,405.93l5.05,3.67,1.84-2.53" transform="translate(25 0)"/>
+          <path class="cls-6" d="M345.25,405.93h6.25v3.12" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M354.86,412.91,352.93,407l-3,1" transform="translate(25 0)"/>
+          <path class="cls-6" d="M354.86,412.91l-5.05-3.67,1.83-2.53" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M347.52,412.91l5.05-3.67-1.83-2.53" transform="translate(25 0)"/>
+          <path class="cls-6" d="M347.52,412.91l1.93-5.94,3,1" transform="translate(25 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="γCMa">
+    <g id="star4">
+      <g>
+        <g>
+          <path class="cls-6" d="M389.76,377.86l-1.1,3.39,1.7.56" transform="translate(25 0)"/>
+          <path class="cls-6" d="M389.76,377.86l1.1,3.39-1.69.56" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M393.16,380.32h-3.57v1.79" transform="translate(25 0)"/>
+          <path class="cls-6" d="M393.16,380.32l-2.89,2.1-1-1.44" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M386.36,380.32l2.89,2.1L390.3,381" transform="translate(25 0)"/>
+          <path class="cls-6" d="M386.36,380.32h3.58v1.79" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M391.86,384.32l-1.1-3.4-1.7.55" transform="translate(25 0)"/>
+          <path class="cls-6" d="M391.86,384.32l-2.89-2.1,1-1.45" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M387.66,384.32l2.89-2.1-1.05-1.45" transform="translate(25 0)"/>
+          <path class="cls-6" d="M387.66,384.32l1.11-3.4,1.69.55" transform="translate(25 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="δCMa">
+    <g>
+      <g>
+        <path class="cls-6" d="M409.05,403.27l-1.93,6,3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M409.05,403.27l1.93,6-3,1" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M415,407.59h-6.25v3.13" transform="translate(25 0)"/>
+        <path class="cls-6" d="M415,407.59l-5.06,3.68-1.83-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M403.1,407.59l5.06,3.68,1.84-2.53" transform="translate(25 0)"/>
+        <path class="cls-6" d="M403.1,407.59h6.25v3.13" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M412.72,414.58l-1.93-5.94-3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M412.72,414.58l-5.06-3.67,1.84-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M405.37,414.58l5.06-3.67-1.84-2.53" transform="translate(25 0)"/>
+        <path class="cls-6" d="M405.37,414.58l1.93-5.94,3,1" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="εCMa">
+    <g id="star3">
+      <g>
+        <g>
+          <path class="cls-6" d="M403.81,421.9l-1.55,4.76,2.38.77" transform="translate(25 0)"/>
+          <path class="cls-6" d="M403.81,421.9l1.54,4.76-2.37.77" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M408.56,425.36h-5v2.5" transform="translate(25 0)"/>
+          <path class="cls-6" d="M408.56,425.36l-4,2.94-1.47-2" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M399.05,425.36l4.05,2.94,1.47-2" transform="translate(25 0)"/>
+          <path class="cls-6" d="M399.05,425.36h5v2.5" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M406.75,431l-1.55-4.76-2.38.78" transform="translate(25 0)"/>
+          <path class="cls-6" d="M406.75,431,402.7,428l1.47-2" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M400.87,431l4-2.94-1.46-2" transform="translate(25 0)"/>
+          <path class="cls-6" d="M400.87,431l1.54-4.76,2.38.78" transform="translate(25 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="αVir">
+    <g>
+      <g>
+        <path class="cls-6" d="M554.28,288.21,552,295.35l3.56,1.16" transform="translate(25 0)"/>
+        <path class="cls-6" d="M554.28,288.21l2.32,7.14L553,296.51" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M561.42,293.4h-7.5v3.75" transform="translate(25 0)"/>
+        <path class="cls-6" d="M561.42,293.4l-6.07,4.4-2.2-3" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M547.15,293.4l6.07,4.4,2.2-3" transform="translate(25 0)"/>
+        <path class="cls-6" d="M547.15,293.4h7.5v3.75" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M558.69,301.78l-2.31-7.13-3.57,1.16" transform="translate(25 0)"/>
+        <path class="cls-6" d="M558.69,301.78l-6.06-4.41,2.2-3" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M549.88,301.78l6.06-4.41-2.2-3" transform="translate(25 0)"/>
+        <path class="cls-6" d="M549.88,301.78l2.31-7.13,3.57,1.16" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="αSco">
+    <g>
+      <g>
+        <path class="cls-6" d="M622.62,403.93l-2.32,7.13,3.57,1.16" transform="translate(25 0)"/>
+        <path class="cls-6" d="M622.62,403.93l2.32,7.13-3.57,1.16" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M629.75,409.11h-7.5v3.75" transform="translate(25 0)"/>
+        <path class="cls-6" d="M629.75,409.11l-6.07,4.41-2.2-3" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M615.49,409.11l6.06,4.41,2.21-3" transform="translate(25 0)"/>
+        <path class="cls-6" d="M615.49,409.11H623v3.75" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M627,417.5l-2.32-7.14-3.57,1.16" transform="translate(25 0)"/>
+        <path class="cls-6" d="M627,417.5,621,413.09l2.2-3" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M618.21,417.5l6.07-4.41-2.21-3" transform="translate(25 0)"/>
+        <path class="cls-6" d="M618.21,417.5l2.32-7.14,3.56,1.16" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="βSco">
+    <g>
+      <g>
+        <path class="cls-6" d="M646.9,408.09l-1.54,4.76,2.38.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M646.9,408.09l1.55,4.76-2.38.77" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M651.66,411.55h-5v2.5" transform="translate(25 0)"/>
+        <path class="cls-6" d="M651.66,411.55l-4,2.94-1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M642.15,411.55l4,2.94,1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M642.15,411.55h5v2.5" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M649.84,417.14l-1.54-4.76-2.38.78" transform="translate(25 0)"/>
+        <path class="cls-6" d="M649.84,417.14l-4-2.94,1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M644,417.14l4-2.94-1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M644,417.14l1.55-4.76,2.38.78" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="εSco">
+    <g>
+      <g>
+        <path class="cls-6" d="M629.76,420.65l-1.93,6,3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M629.76,420.65l1.93,6-3,1" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M635.7,425h-6.25v3.13" transform="translate(25 0)"/>
+        <path class="cls-6" d="M635.7,425l-5.05,3.68-1.84-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M623.82,425l5,3.68,1.84-2.53" transform="translate(25 0)"/>
+        <path class="cls-6" d="M623.82,425h6.25v3.13" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M633.43,432,631.5,426l-3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M633.43,432l-5-3.67,1.83-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M626.09,432l5-3.67-1.83-2.53" transform="translate(25 0)"/>
+        <path class="cls-6" d="M626.09,432,628,426l3,1" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="θSco">
+    <g>
+      <g>
+        <path class="cls-6" d="M587.62,457.32l-1.93,5.94,3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M587.62,457.32l1.93,5.94-3,1" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M593.56,461.64h-6.25v3.12" transform="translate(25 0)"/>
+        <path class="cls-6" d="M593.56,461.64l-5,3.67-1.84-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M581.67,461.64l5.06,3.67,1.84-2.53" transform="translate(25 0)"/>
+        <path class="cls-6" d="M581.67,461.64h6.25v3.12" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M591.29,468.63l-1.93-5.95-3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M591.29,468.63l-5-3.68,1.83-2.52" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M583.94,468.63,589,465l-1.84-2.52" transform="translate(25 0)"/>
+        <path class="cls-6" d="M583.94,468.63l1.94-5.95,3,1" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="ιSco">
+    <g>
+      <g>
+        <path class="cls-6" d="M587.38,476.19,585.83,481l2.38.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M587.38,476.19l1.54,4.76-2.37.77" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M592.14,479.64h-5v2.5" transform="translate(25 0)"/>
+        <path class="cls-6" d="M592.14,479.64l-4,2.94-1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M582.62,479.64l4,2.94,1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M582.62,479.64h5v2.5" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M590.32,485.23l-1.55-4.75-2.37.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M590.32,485.23l-4.05-2.93,1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M584.44,485.23l4-2.93-1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M584.44,485.23l1.55-4.75,2.37.77" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="κSco">
+    <g>
+      <g>
+        <path class="cls-6" d="M605,444.76l-1.55,4.76,2.38.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M605,444.76l1.54,4.76-2.37.77" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M609.75,448.22h-5v2.5" transform="translate(25 0)"/>
+        <path class="cls-6" d="M609.75,448.22l-4,2.94-1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M600.24,448.22l4,2.94,1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M600.24,448.22h5v2.5" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M607.94,453.81l-1.55-4.76-2.37.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M607.94,453.81l-4.05-2.94,1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M602.06,453.81l4.05-2.94-1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M602.06,453.81l1.55-4.76,2.37.77" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="λSco">
+    <g>
+      <g>
+        <path class="cls-6" d="M619.05,434.7l-1.93,5.95,3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M619.05,434.7l1.93,5.95-3,1" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M625,439h-6.25v3.13" transform="translate(25 0)"/>
+        <path class="cls-6" d="M625,439l-5.06,3.67-1.83-2.52" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M613.1,439l5.06,3.67,1.84-2.52" transform="translate(25 0)"/>
+        <path class="cls-6" d="M613.1,439h6.25v3.13" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M622.72,446l-1.93-5.95-3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M622.72,446l-5.06-3.68,1.84-2.52" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M615.37,446l5.06-3.68-1.84-2.52" transform="translate(25 0)"/>
+        <path class="cls-6" d="M615.37,446l1.93-5.95,3,1" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="μSco">
+    <g>
+      <g>
+        <path class="cls-6" d="M586.9,441.43l-1.54,4.75,2.38.78" transform="translate(25 0)"/>
+        <path class="cls-6" d="M586.9,441.43l1.55,4.75-2.38.78" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M591.66,444.88h-5v2.5" transform="translate(25 0)"/>
+        <path class="cls-6" d="M591.66,444.88l-4,2.94-1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M582.15,444.88l4,2.94,1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M582.15,444.88h5v2.5" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M589.84,450.47l-1.54-4.75-2.38.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M589.84,450.47l-4-2.94,1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M584,450.47l4-2.94-1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M584,450.47l1.55-4.75,2.38.77" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="αHya">
+    <g>
+      <g>
+        <path class="cls-6" d="M433.33,350.89l-1.93,5.95,3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M433.33,350.89l1.93,5.95-3,1" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M439.28,355.21H433v3.13" transform="translate(25 0)"/>
+        <path class="cls-6" d="M439.28,355.21l-5.06,3.67-1.84-2.52" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M427.39,355.21l5.05,3.67,1.84-2.52" transform="translate(25 0)"/>
+        <path class="cls-6" d="M427.39,355.21h6.25v3.13" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M437,362.2l-1.94-5.95-3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M437,362.2,432,358.53l1.84-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M429.66,362.2l5.06-3.67L432.88,356" transform="translate(25 0)"/>
+        <path class="cls-6" d="M429.66,362.2l1.93-5.95,3,1" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="γHya">
+    <g>
+      <g>
+        <path class="cls-6" d="M547.62,336.19,546.07,341l2.38.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M547.62,336.19l1.54,4.76-2.37.77" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M552.37,339.64h-5v2.5" transform="translate(25 0)"/>
+        <path class="cls-6" d="M552.37,339.64l-4,2.94-1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M542.86,339.64l4,2.94,1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M542.86,339.64h5v2.5" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M550.56,345.24,549,340.48l-2.38.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M550.56,345.24l-4-2.94,1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M544.68,345.24l4-2.94-1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M544.68,345.24l1.54-4.76,2.38.77" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="αCru">
+    <g>
+      <g>
+        <path class="cls-6" d="M500,421.07l-2.32,7.13,3.57,1.16" transform="translate(25 0)"/>
+        <path class="cls-6" d="M500,421.07l2.32,7.13-3.57,1.16" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M507.13,426.25h-7.5V430" transform="translate(25 0)"/>
+        <path class="cls-6" d="M507.13,426.25l-6.07,4.41-2.2-3" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M492.87,426.25l6.06,4.41,2.21-3" transform="translate(25 0)"/>
+        <path class="cls-6" d="M492.87,426.25h7.5V430" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M504.41,434.64l-2.32-7.13-3.57,1.15" transform="translate(25 0)"/>
+        <path class="cls-6" d="M504.41,434.64l-6.07-4.41,2.2-3" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M495.59,434.64l6.07-4.41-2.21-3" transform="translate(25 0)"/>
+        <path class="cls-6" d="M495.59,434.64l2.32-7.13,3.56,1.15" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="βCru">
+    <g>
+      <g>
+        <path class="cls-6" d="M520.24,387.56l-1.93,5.94,3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M520.24,387.56l1.93,5.94-3,1" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M526.18,391.88h-6.25V395" transform="translate(25 0)"/>
+        <path class="cls-6" d="M526.18,391.88l-5.06,3.67L519.29,393" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M514.29,391.88l5.06,3.67,1.84-2.53" transform="translate(25 0)"/>
+        <path class="cls-6" d="M514.29,391.88h6.25V395" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M523.91,398.87,522,392.92l-3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M523.91,398.87l-5.06-3.68,1.84-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M516.56,398.87l5.06-3.68-1.84-2.53" transform="translate(25 0)"/>
+        <path class="cls-6" d="M516.56,398.87l1.93-5.95,3,1" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="γCru">
+    <g>
+      <g>
+        <path class="cls-6" d="M500,371.84l-1.93,6,3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M500,371.84l1.93,6-3,1" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M505.94,376.16h-6.25v3.13" transform="translate(25 0)"/>
+        <path class="cls-6" d="M505.94,376.16l-5.05,3.68-1.84-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M494.06,376.16l5.05,3.68,1.84-2.53" transform="translate(25 0)"/>
+        <path class="cls-6" d="M494.06,376.16h6.24v3.13" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M503.67,383.15l-1.93-5.94-3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M503.67,383.15l-5.05-3.67,1.83-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M496.33,383.15l5.05-3.67L499.54,377" transform="translate(25 0)"/>
+        <path class="cls-6" d="M496.33,383.15l1.93-5.94,3,1" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="δCru">
+    <g>
+      <g>
+        <path class="cls-6" d="M482.38,388.81l-1.54,4.75,2.37.78" transform="translate(25 0)"/>
+        <path class="cls-6" d="M482.38,388.81l1.55,4.75-2.38.78" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M487.14,392.26h-5v2.5" transform="translate(25 0)"/>
+        <path class="cls-6" d="M487.14,392.26l-4.05,2.94-1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M477.62,392.26l4.05,2.94,1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M477.62,392.26h5v2.5" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M485.32,397.85l-1.55-4.75-2.37.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M485.32,397.85l-4.05-2.93,1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M479.44,397.85l4.05-2.93-1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M479.44,397.85,481,393.1l2.37.77" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="εCru">
+    <g>
+      <g>
+        <path class="cls-6" d="M491.19,402.38l-1.1,3.4,1.69.55" transform="translate(25 0)"/>
+        <path class="cls-6" d="M491.19,402.38l1.1,3.4-1.7.55" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M494.59,404.85H491v1.78" transform="translate(25 0)"/>
+        <path class="cls-6" d="M494.59,404.85,491.7,407l-1.05-1.45" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M487.79,404.85l2.89,2.1,1.05-1.45" transform="translate(25 0)"/>
+        <path class="cls-6" d="M487.79,404.85h3.57v1.78" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M493.29,408.84l-1.1-3.4-1.7.56" transform="translate(25 0)"/>
+        <path class="cls-6" d="M493.29,408.84l-2.89-2.1,1.05-1.44" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M489.09,408.84l2.89-2.1-1.05-1.44" transform="translate(25 0)"/>
+        <path class="cls-6" d="M489.09,408.84l1.1-3.4,1.7.56" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="αTrA">
+    <g>
+      <g>
+        <path class="cls-6" d="M552.38,461.61l-1.93,5.94,3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M552.38,461.61l1.93,5.94-3,1" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M558.32,465.93h-6.25v3.12" transform="translate(25 0)"/>
+        <path class="cls-6" d="M558.32,465.93l-5.05,3.67-1.84-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M546.44,465.93l5,3.67,1.84-2.53" transform="translate(25 0)"/>
+        <path class="cls-6" d="M546.44,465.93h6.25v3.12" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M556.05,472.91,554.12,467l-3,1" transform="translate(25 0)"/>
+        <path class="cls-6" d="M556.05,472.91l-5-3.67,1.83-2.53" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M548.71,472.91l5-3.67-1.83-2.53" transform="translate(25 0)"/>
+        <path class="cls-6" d="M548.71,472.91l1.93-5.94,3,1" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="βTrA">
+    <g>
+      <g>
+        <path class="cls-6" d="M567.38,447.38l-1.55,4.76,2.38.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M567.38,447.38l1.55,4.76-2.38.77" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M572.14,450.84h-5v2.5" transform="translate(25 0)"/>
+        <path class="cls-6" d="M572.14,450.84l-4,2.93-1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M562.62,450.84l4,2.93,1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M562.62,450.84h5v2.5" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M570.32,456.43l-1.55-4.76-2.37.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M570.32,456.43l-4.05-2.94,1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M564.44,456.43l4-2.94-1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M564.44,456.43l1.55-4.76,2.37.77" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="γTrA">
+    <g>
+      <g>
+        <path class="cls-6" d="M538.57,443.09,537,447.85l2.37.77" transform="translate(25 0)"/>
+        <path class="cls-6" d="M538.57,443.09l1.55,4.76-2.38.77" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M543.33,446.55h-5v2.5" transform="translate(25 0)"/>
+        <path class="cls-6" d="M543.33,446.55l-4.05,2.94-1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M533.82,446.55l4,2.94,1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M533.82,446.55h5v2.5" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M541.51,452.14,540,447.38l-2.37.78" transform="translate(25 0)"/>
+        <path class="cls-6" d="M541.51,452.14l-4-2.94,1.47-2" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M535.63,452.14l4-2.94-1.47-2" transform="translate(25 0)"/>
+        <path class="cls-6" d="M535.63,452.14l1.55-4.76,2.37.78" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="αCar">
+    <g>
+      <g>
+        <path class="cls-6" d="M429.76,435.36l-2.32,7.13,3.57,1.16" transform="translate(25 0)"/>
+        <path class="cls-6" d="M429.76,435.36l2.32,7.13-3.57,1.16" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M436.89,440.54h-7.5v3.75" transform="translate(25 0)"/>
+        <path class="cls-6" d="M436.89,440.54,430.83,445l-2.21-3" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M422.63,440.54,428.7,445l2.2-3" transform="translate(25 0)"/>
+        <path class="cls-6" d="M422.63,440.54h7.5v3.75" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M434.17,448.92l-2.32-7.13L428.29,443" transform="translate(25 0)"/>
+        <path class="cls-6" d="M434.17,448.92l-6.07-4.4,2.21-3" transform="translate(25 0)"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M425.35,448.92l6.07-4.4-2.2-3" transform="translate(25 0)"/>
+        <path class="cls-6" d="M425.35,448.92l2.32-7.13,3.57,1.16" transform="translate(25 0)"/>
+      </g>
+    </g>
+  </g>
+  <g id="σOct">
+    <g id="star5">
+      <g>
+        <g>
+          <path class="cls-6" d="M500,484.4l-.77,2.38,1.19.39" transform="translate(25 0)"/>
+          <path class="cls-6" d="M500,484.4l.77,2.38-1.19.39" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M502.38,486.13h-2.5v1.25" transform="translate(25 0)"/>
+          <path class="cls-6" d="M502.38,486.13l-2,1.47-.73-1" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M497.62,486.13l2,1.47.74-1" transform="translate(25 0)"/>
+          <path class="cls-6" d="M497.62,486.13h2.5v1.25" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M501.47,488.93l-.77-2.38-1.19.39" transform="translate(25 0)"/>
+          <path class="cls-6" d="M501.47,488.93l-2-1.47.73-1" transform="translate(25 0)"/>
+        </g>
+        <g>
+          <path class="cls-6" d="M498.53,488.93l2-1.47-.73-1" transform="translate(25 0)"/>
+          <path class="cls-6" d="M498.53,488.93l.77-2.38,1.19.39" transform="translate(25 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="499.03mm" height="258.05mm" viewBox="0 0 1414.58 731.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #012169;
+      }
+
+      .cls-4, .cls-7 {
+        stroke: #fff;
+      }
+
+      .cls-4, .cls-6, .cls-7, .cls-8 {
+        stroke-miterlimit: 20;
+      }
+
+      .cls-4, .cls-8 {
+        stroke-width: 69.98px;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-6, .cls-8 {
+        stroke: #c8102e;
+      }
+
+      .cls-6 {
+        stroke-width: 46.66px;
+      }
+
+      .cls-7 {
+        stroke-width: 116.64px;
+      }
+
+      .cls-9 {
+        fill: #fedd00;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(14.58 31.49)">
+      <rect class="cls-1" x="1.08" y="-0.2" width="1398.92" height="700.2"/>
+    </clipPath>
+    <clipPath id="clip-path-2" transform="translate(14.58 31.49)">
+      <path class="cls-1" d="M1.08-.2v175h816v175H700.54Zm0,350.1V466.6H350.81V-.2H700.54Z"/>
+    </clipPath>
+  </defs>
+  <g class="cls-2">
+    <rect class="cls-3" x="15.66" y="31.29" width="1398.92" height="700.2"/>
+    <g>
+      <path class="cls-4" d="M1.08-.2,700.54,349.9m0-350.1L1.08,349.9" transform="translate(14.58 31.49)"/>
+      <g class="cls-5">
+        <path class="cls-6" d="M1.08-.2,700.54,349.9m0-350.1L1.08,349.9" transform="translate(14.58 31.49)"/>
+      </g>
+      <path class="cls-7" d="M350.81-.2V466.6M1.08,174.85h816" transform="translate(14.58 31.49)"/>
+      <path class="cls-8" d="M350.81-.2V466.6M1.08,174.85h816" transform="translate(14.58 31.49)"/>
+    </g>
+    <path class="cls-9" d="M700.54-.2H1400V700H1.08V349.9H700.54Z" transform="translate(14.58 31.49)"/>
+    <g>
+      <g>
+        <ellipse class="cls-3" cx="365.39" cy="206.34" rx="59.5" ry="59.56"/>
+        <path id="s" class="cls-9" d="M350.81,115.29l35,107.75-91.56-66.6H407.4L315.83,223" transform="translate(14.58 31.49)"/>
+      </g>
+      <path class="cls-9" d="M146.8,143.22l20.56,63.34-53.82-39.15h66.52l-53.82,39.15" transform="translate(14.58 31.49)"/>
+      <path class="cls-9" d="M554.82,143.22l20.55,63.34-53.81-39.15h66.52l-53.82,39.15" transform="translate(14.58 31.49)"/>
+      <path class="cls-9" d="M350.81,259.92l20.55,63.34-53.81-39.15h66.52l-53.82,39.15" transform="translate(14.58 31.49)"/>
+      <path class="cls-9" d="M350.81,26.52l20.55,63.34L317.55,50.71h66.52L330.25,89.86" transform="translate(14.58 31.49)"/>
+    </g>
+  </g>
+</svg>

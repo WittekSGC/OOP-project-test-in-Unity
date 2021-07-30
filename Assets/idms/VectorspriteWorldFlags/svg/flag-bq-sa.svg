@@ -1,0 +1,48 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="370.42mm" height="246.94mm" viewBox="0 0 1050 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dc171d;
+      }
+
+      .cls-2 {
+        fill: #012a87;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #f9d90f;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1050,700H0V0H1050Z" transform="translate(0 0)"/>
+  <path class="cls-2" d="M1050,700H0V350H1050Z" transform="translate(0 0)"/>
+  <path class="cls-3" d="M525,700,0,350,525,0l525,350Z" transform="translate(0 0)"/>
+  <g id="f">
+    <g id="t">
+      <path id="o" class="cls-4" d="M525,151.9,463.78,340.3,558.32,371Z" transform="translate(0 0)"/>
+      <path class="cls-4" d="M525,151.9l61.22,188.4L491.68,371Z" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path class="cls-4" d="M713.4,288.78H515.3v99.4Z" transform="translate(0 0)"/>
+      <path class="cls-4" d="M713.4,288.78,553.14,405.22l-58.43-80.41Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+  <g>
+    <path class="cls-4" d="M336.6,288.78,496.86,405.22l58.43-80.41Z" transform="translate(0 0)"/>
+    <path class="cls-4" d="M336.6,288.78H534.69v99.4Z" transform="translate(0 0)"/>
+  </g>
+  <g>
+    <g>
+      <path class="cls-4" d="M641.44,510.27,580.22,321.86l-94.53,30.72Z" transform="translate(0 0)"/>
+      <path class="cls-4" d="M641.44,510.27,481.17,393.83l58.43-80.42Z" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path class="cls-4" d="M408.56,510.27,568.82,393.83,510.4,313.41Z" transform="translate(0 0)"/>
+      <path class="cls-4" d="M408.56,510.27l61.22-188.41,94.53,30.72Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

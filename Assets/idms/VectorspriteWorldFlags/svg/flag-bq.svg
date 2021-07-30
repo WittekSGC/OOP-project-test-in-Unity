@@ -1,0 +1,41 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="370.42mm" height="246.94mm" viewBox="0 0 1050 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #012a87;
+      }
+
+      .cls-3 {
+        fill: #f9d90f;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 19.25px;
+      }
+
+      .cls-5 {
+        fill: #dc171d;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="1050" height="700"/>
+  <path class="cls-2" d="M1050,700H0L1050,0Z" transform="translate(0 0)"/>
+  <path class="cls-3" d="M0,0V291.67L437.5,0Z" transform="translate(0 0)"/>
+  <circle class="cls-4" cx="288.75" cy="302.75" r="140"/>
+  <g id="g">
+    <path id="a" d="M288.75,122.21,315,167.68H262.5Z" transform="translate(0 0)"/>
+    <path d="M288.75,483.29,262.5,437.82H315Z" transform="translate(0 0)"/>
+  </g>
+  <g>
+    <path d="M469.29,302.75,423.82,329V276.5Z" transform="translate(0 0)"/>
+    <path d="M108.21,302.75l45.47-26.25V329Z" transform="translate(0 0)"/>
+  </g>
+  <path id="b" class="cls-5" d="M288.75,213.5,366,347.37H211.46Z" transform="translate(0 0)"/>
+  <path class="cls-5" d="M366,258.12,288.75,392,211.46,258.12Z" transform="translate(0 0)"/>
+</svg>

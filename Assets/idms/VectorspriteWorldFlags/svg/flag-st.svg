@@ -1,0 +1,64 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="493.89mm" height="246.94mm" viewBox="0 0 1400 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #12ad2b;
+      }
+
+      .cls-2 {
+        fill: #ffce00;
+      }
+
+      .cls-3 {
+        fill: #d21034;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="1400" height="700"/>
+  <rect class="cls-2" y="200" width="1400" height="300"/>
+  <path class="cls-3" d="M0,0V700L350,350" transform="translate(0 0)"/>
+  <g id="star">
+    <g id="c">
+      <path id="t" d="M700,250l-30.9,95.11,47.55,15.45" transform="translate(0 0)"/>
+      <path d="M700,250l30.9,95.11-47.55,15.45" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path d="M795.1,319.1h-100v50" transform="translate(0 0)"/>
+      <path d="M795.1,319.1l-80.9,58.78-29.39-40.45" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path d="M758.78,430.9l-30.9-95.1-47.56,15.45" transform="translate(0 0)"/>
+      <path d="M758.78,430.9l-80.9-58.78,29.38-40.45" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path d="M641.22,430.9l80.9-58.78-29.39-40.45" transform="translate(0 0)"/>
+      <path d="M641.22,430.9l30.9-95.1,47.55,15.45" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path d="M604.89,319.1l80.9,58.78,29.39-40.45" transform="translate(0 0)"/>
+      <path d="M604.89,319.1h100v50" transform="translate(0 0)"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path d="M1050,250l-30.9,95.11,47.55,15.45" transform="translate(0 0)"/>
+      <path d="M1050,250l30.9,95.11-47.55,15.45" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path d="M1145.1,319.1h-100v50" transform="translate(0 0)"/>
+      <path d="M1145.1,319.1l-80.9,58.78-29.39-40.45" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path d="M1108.78,430.9l-30.91-95.1-47.55,15.45" transform="translate(0 0)"/>
+      <path d="M1108.78,430.9l-80.91-58.78,29.39-40.45" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path d="M991.22,430.9l80.9-58.78-29.39-40.45" transform="translate(0 0)"/>
+      <path d="M991.22,430.9l30.9-95.1,47.55,15.45" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path d="M954.89,319.1l80.9,58.78,29.39-40.45" transform="translate(0 0)"/>
+      <path d="M954.89,319.1h100v50" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

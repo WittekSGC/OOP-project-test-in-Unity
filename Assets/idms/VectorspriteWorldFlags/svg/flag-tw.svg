@@ -1,0 +1,24 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="370.42mm" height="246.94mm" viewBox="0 0 1050 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fe0000;
+      }
+
+      .cls-2 {
+        fill: #000095;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="1050" height="700"/>
+  <rect class="cls-2" width="525" height="350"/>
+  <path id="four_rays" data-name="four rays" class="cls-3" d="M297.5,175l-35,131.25L227.5,175l35-131.25m0,166.25,131.25-35L262.5,140,131.25,175" transform="translate(0 0)"/>
+  <path class="cls-3" d="M292.81,192.5l-95.94,96.17L232.19,157.5l95.93-96.17M245,205.31l131.17,35.31L280,144.69,148.83,109.37" transform="translate(0 0)"/>
+  <path class="cls-3" d="M280,205.31,148.83,240.62,245,144.69l131.17-35.32m-144,83.13,95.93,96.17L292.81,157.5,196.87,61.33" transform="translate(0 0)"/>
+  <circle class="cls-2" cx="262.5" cy="175" r="74.37"/>
+  <circle class="cls-3" cx="262.5" cy="175" r="65.62"/>
+</svg>

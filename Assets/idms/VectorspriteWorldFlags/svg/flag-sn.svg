@@ -1,0 +1,42 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="370.42mm" height="246.94mm" viewBox="0 0 1050 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00853f;
+      }
+
+      .cls-2 {
+        fill: #fdef42;
+      }
+
+      .cls-3 {
+        fill: #e31b23;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="1050" height="700"/>
+  <rect class="cls-2" x="350" width="700" height="700"/>
+  <rect class="cls-3" x="700" width="350" height="700"/>
+  <g>
+    <g id="c">
+      <path id="t" class="cls-1" d="M525,233.33,489,344.29l55.48,18Z" transform="translate(0 0)"/>
+      <path class="cls-1" d="M525,233.33l36,111-55.48,18Z" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path class="cls-1" d="M636,314H519.29v58.33Z" transform="translate(0 0)"/>
+      <path class="cls-1" d="M636,314l-94.39,68.57-34.29-47.19Z" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path class="cls-1" d="M593.57,444.38,557.52,333.43l-55.48,18Z" transform="translate(0 0)"/>
+      <path class="cls-1" d="M593.57,444.38l-94.38-68.57,34.29-47.19Z" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path class="cls-1" d="M456.42,444.38l94.39-68.57-34.29-47.19Z" transform="translate(0 0)"/>
+      <path class="cls-1" d="M456.42,444.38l36.06-110.95,55.47,18Z" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path class="cls-1" d="M414,314l94.39,68.57,34.29-47.19Z" transform="translate(0 0)"/>
+      <path class="cls-1" d="M414,314H530.71v58.33Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

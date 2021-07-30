@@ -1,0 +1,48 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="469.19mm" height="246.94mm" viewBox="0 0 1330 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bf0a30;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 21.82;
+        stroke-width: 63.64px;
+      }
+
+      .cls-3 {
+        fill: #002868;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="1330" height="700"/>
+  <path class="cls-2" d="M0,95.45H1330M0,222.73H1330M0,350H1330M0,477.27H1330M0,604.54H1330" transform="translate(0 0)"/>
+  <rect class="cls-3" width="318.18" height="318.18"/>
+  <g>
+    <g id="B">
+      <polygon id="A" class="cls-4" points="159.09 63.64 129.59 154.42 174.99 169.17 159.09 63.64"/>
+      <polygon class="cls-4" points="159.09 63.64 188.59 154.42 143.2 169.17 159.09 63.64"/>
+    </g>
+    <g>
+      <polygon class="cls-4" points="249.87 129.59 154.42 129.59 154.42 177.32 249.87 129.59"/>
+      <polygon class="cls-4" points="249.87 129.59 172.65 185.7 144.6 147.09 249.87 129.59"/>
+    </g>
+    <g>
+      <polygon class="cls-4" points="68.31 129.59 145.53 185.7 173.59 147.09 68.31 129.59"/>
+      <polygon class="cls-4" points="68.31 129.59 163.76 129.59 163.76 177.32 68.31 129.59"/>
+    </g>
+    <g>
+      <polygon class="cls-4" points="215.2 236.31 185.7 145.53 140.31 160.28 215.2 236.31"/>
+      <polygon class="cls-4" points="215.2 236.31 137.97 180.21 166.03 141.6 215.2 236.31"/>
+    </g>
+    <g>
+      <polygon class="cls-4" points="102.98 236.31 180.21 180.21 152.16 141.6 102.98 236.31"/>
+      <polygon class="cls-4" points="102.98 236.31 132.48 145.53 177.87 160.28 102.98 236.31"/>
+    </g>
+  </g>
+</svg>

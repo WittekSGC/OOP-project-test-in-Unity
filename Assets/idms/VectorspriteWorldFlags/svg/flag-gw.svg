@@ -1,0 +1,40 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="493.89mm" height="246.94mm" viewBox="0 0 1400 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcd116;
+      }
+
+      .cls-2 {
+        fill: #009e49;
+      }
+
+      .cls-3 {
+        fill: #ce1126;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="1400" height="700"/>
+  <rect class="cls-2" y="350" width="1400" height="350"/>
+  <rect class="cls-3" width="466.67" height="700"/>
+  <g id="c">
+    <path id="t" d="M233.33,233.33l-36.05,111,55.48,18" transform="translate(0 0)"/>
+    <path d="M233.33,233.33l36,111-55.47,18" transform="translate(0 0)"/>
+  </g>
+  <g>
+    <path d="M344.29,314H227.62v58.33" transform="translate(0 0)"/>
+    <path d="M344.29,314,249.9,382.52l-34.28-47.19" transform="translate(0 0)"/>
+  </g>
+  <g>
+    <path d="M301.91,444.38,265.86,333.43l-55.48,18" transform="translate(0 0)"/>
+    <path d="M301.91,444.38l-94.39-68.57,34.29-47.19" transform="translate(0 0)"/>
+  </g>
+  <g>
+    <path d="M164.76,444.38l94.38-68.57-34.28-47.19" transform="translate(0 0)"/>
+    <path d="M164.76,444.38l36.05-110.95,55.48,18" transform="translate(0 0)"/>
+  </g>
+  <g>
+    <path d="M122.38,314l94.38,68.57,34.29-47.19" transform="translate(0 0)"/>
+    <path d="M122.38,314H239v58.33" transform="translate(0 0)"/>
+  </g>
+</svg>

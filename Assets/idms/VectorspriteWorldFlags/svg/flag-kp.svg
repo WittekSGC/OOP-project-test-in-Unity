@@ -1,0 +1,53 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="493.89mm" height="246.94mm" viewBox="0 0 1400 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #024fa2;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #ed1c27;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="1400" height="700"/>
+  <rect class="cls-2" y="116.67" width="1400" height="466.67"/>
+  <rect class="cls-3" y="136.11" width="1400" height="427.78"/>
+  <circle class="cls-2" cx="466.67" cy="350" r="155.56"/>
+  <g id="star">
+    <g id="cone">
+      <polygon id="triangle" class="cls-3" points="466.67 199.31 420.1 342.62 491.76 365.91 466.67 199.31"/>
+      <g id="use12">
+        <polygon class="cls-3" points="466.67 199.31 513.23 342.62 441.57 365.91 466.67 199.31"/>
+      </g>
+    </g>
+    <g id="use14">
+      <g>
+        <polygon class="cls-3" points="609.99 303.43 459.29 303.43 459.29 378.78 609.99 303.43"/>
+        <polygon class="cls-3" points="609.99 303.43 488.07 392.01 443.78 331.05 609.99 303.43"/>
+      </g>
+    </g>
+    <g id="use16">
+      <g>
+        <polygon class="cls-3" points="323.35 303.43 445.26 392.01 489.55 331.05 323.35 303.43"/>
+        <polygon class="cls-3" points="323.35 303.43 474.04 303.43 474.04 378.78 323.35 303.43"/>
+      </g>
+    </g>
+    <g id="use18">
+      <g>
+        <polygon class="cls-3" points="555.24 471.91 508.68 328.6 437.01 351.88 555.24 471.91"/>
+        <polygon class="cls-3" points="555.24 471.91 433.33 383.34 477.62 322.38 555.24 471.91"/>
+      </g>
+    </g>
+    <g id="use20">
+      <g>
+        <polygon class="cls-3" points="378.09 471.91 500 383.34 455.72 322.38 378.09 471.91"/>
+        <polygon class="cls-3" points="378.09 471.91 424.66 328.6 496.32 351.88 378.09 471.91"/>
+      </g>
+    </g>
+  </g>
+</svg>

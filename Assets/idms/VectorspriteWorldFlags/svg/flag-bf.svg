@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1050 700" style="enable-background:new 0 0 1050 700;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#009E49;}
+	.st1{fill:#EF2B2D;}
+	.st2{fill:#FCD116;}
+</style>
+<rect y="0" class="st0" width="1050" height="700"/>
+<rect y="0" class="st1" width="1050" height="350"/>
+<g transform="translate(450,300)">
+	<g id="c">
+		<path id="t" class="st2" d="M75-66.7l-36.1,111l55.5,18"/>
+		<g transform="scale(-1,1)">
+			<path class="st2" d="M75-66.7l36.1,111l-55.5,18"/>
+		</g>
+	</g>
+	<g transform="rotate(72)">
+		<g>
+			<path class="st2" d="M186,13.9H69.3v58.3"/>
+			<g transform="scale(-1,1)">
+				<path class="st2" d="M186,13.9L91.6,82.5L57.3,35.3"/>
+			</g>
+		</g>
+	</g>
+	<g transform="rotate(144)">
+		<g>
+			<path class="st2" d="M143.6,144.4l-36.1-111L52,51.5"/>
+			<g transform="scale(-1,1)">
+				<path class="st2" d="M143.6,144.4L49.2,75.8l34.3-47.2"/>
+			</g>
+		</g>
+	</g>
+	<g transform="rotate(216)">
+		<g>
+			<path class="st2" d="M6.4,144.4l94.4-68.6L66.5,28.6"/>
+			<g transform="scale(-1,1)">
+				<path class="st2" d="M6.4,144.4l36.1-111l55.5,18"/>
+			</g>
+		</g>
+	</g>
+	<g transform="rotate(288)">
+		<g>
+			<path class="st2" d="M-36,13.9l94.4,68.6l34.3-47.2"/>
+			<g transform="scale(-1,1)">
+				<path class="st2" d="M-36,13.9H80.7v58.3"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

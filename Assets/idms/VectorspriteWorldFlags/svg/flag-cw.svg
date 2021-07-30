@@ -1,0 +1,71 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="370.42mm" height="246.94mm" viewBox="0 0 1050 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #002b7f;
+      }
+
+      .cls-2 {
+        fill: #f9e814;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="1050" height="700"/>
+  <path class="cls-2" d="M0,437.5H1050V525H0Z" transform="translate(0 0)"/>
+  <g id="s">
+    <g id="f">
+      <g id="t">
+        <path id="o" class="cls-3" d="M233.33,155.56l-24,74,37,12Z" transform="translate(0 0)"/>
+        <path class="cls-3" d="M233.33,155.56l24,74-37,12Z" transform="translate(0 0)"/>
+      </g>
+      <g>
+        <path class="cls-3" d="M307.3,209.3H229.53v38.89Z" transform="translate(0 0)"/>
+        <path class="cls-3" d="M307.3,209.3,244.38,255l-22.86-31.46Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+    <g>
+      <path class="cls-3" d="M159.36,209.3,222.29,255l22.85-31.46Z" transform="translate(0 0)"/>
+      <path class="cls-3" d="M159.36,209.3h77.78v38.89Z" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <g>
+        <path class="cls-3" d="M279.05,296.26l-24-74-37,12Z" transform="translate(0 0)"/>
+        <path class="cls-3" d="M279.05,296.26l-62.92-45.72L239,219.08Z" transform="translate(0 0)"/>
+      </g>
+      <g>
+        <path class="cls-3" d="M187.62,296.26l62.92-45.72-22.86-31.46Z" transform="translate(0 0)"/>
+        <path class="cls-3" d="M187.62,296.26l24-74,37,12Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g>
+      <g>
+        <path class="cls-3" d="M116.67,58.33l-18,55.48,27.74,9Z" transform="translate(0 0)"/>
+        <path class="cls-3" d="M116.67,58.33l18,55.48-27.74,9Z" transform="translate(0 0)"/>
+      </g>
+      <g>
+        <path class="cls-3" d="M172.14,98.64H113.81v29.17Z" transform="translate(0 0)"/>
+        <path class="cls-3" d="M172.14,98.64,125,132.93l-17.14-23.6Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+    <g>
+      <path class="cls-3" d="M61.19,98.64l47.19,34.29,17.14-23.6Z" transform="translate(0 0)"/>
+      <path class="cls-3" d="M61.19,98.64h58.33v29.17Z" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <g>
+        <path class="cls-3" d="M151,163.86l-18-55.48-27.74,9Z" transform="translate(0 0)"/>
+        <path class="cls-3" d="M151,163.86l-47.19-34.29L120.91,106Z" transform="translate(0 0)"/>
+      </g>
+      <g>
+        <path class="cls-3" d="M82.38,163.86l47.19-34.29L112.43,106Z" transform="translate(0 0)"/>
+        <path class="cls-3" d="M82.38,163.86l18-55.48,27.73,9Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

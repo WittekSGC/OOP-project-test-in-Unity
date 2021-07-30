@@ -1,0 +1,66 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="493.89mm" height="246.94mm" viewBox="0 0 1400 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #da121a;
+      }
+
+      .cls-2 {
+        fill: #fcdd09;
+      }
+
+      .cls-3 {
+        fill: #078930;
+      }
+
+      .cls-4 {
+        fill: #0f47af;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        stroke: #fcdd09;
+      }
+
+      .cls-5 {
+        stroke-miterlimit: 6.67;
+        stroke-width: 7.78px;
+      }
+
+      .cls-6 {
+        stroke-miterlimit: 6.67;
+        stroke-width: 7.78px;
+      }
+
+      .cls-7 {
+        stroke-miterlimit: 6.67;
+        stroke-width: 7.78px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,0H1400V700H0Z" transform="translate(0 0)"/>
+  <path class="cls-2" d="M0,0H1400V466.67H0Z" transform="translate(0 0)"/>
+  <path class="cls-3" d="M0,0H1400V233.33H0Z" transform="translate(0 0)"/>
+  <g>
+    <circle class="cls-4" cx="700" cy="350" r="233.33"/>
+    <g id="a">
+      <path class="cls-2" d="M700,163.33l-8.18,25.17,33.73,103.82h-45l-5.06,15.55H819.73l21.41-15.55H741.91Z" transform="translate(0 0)"/>
+      <path class="cls-5" d="M750.29,280.78,809.72,199" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M877.53,292.32H851.06l-88.31,64.16-13.89-42.77H732.5l44.56,137.14,21.41,15.56L767.81,372Z" transform="translate(0 0)"/>
+      <path class="cls-6" d="M781.37,376.44l96.16,31.24" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M809.72,501l-8.18-25.17-88.31-64.16,36.38-26.44-5.05-15.55L627.9,454.46l-8.18,25.17L700,421.3Z" transform="translate(0 0)"/>
+      <path class="cls-7" d="M700,435.55V536.67" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M590.28,501l21.41-15.56,33.73-103.81,36.38,26.43L695,398.47,578.37,313.71H551.91L632.19,372Z" transform="translate(0 0)"/>
+      <path class="cls-7" d="M618.63,376.44l-96.16,31.24" transform="translate(0 0)"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M522.47,292.32l21.41,15.55H653l-13.9,42.77,13.23,9.62,44.56-137.15-8.18-25.17-30.66,94.38Z" transform="translate(0 0)"/>
+      <path class="cls-6" d="M649.71,280.78,590.28,199" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>
